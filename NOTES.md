@@ -18,5 +18,5 @@ I also found that the `.gitignore` lines started with spaces, so Git didn't actu
 
 ## Verification
 
-- `/memory`: TODO, confirm `CLAUDE.md` shows as loaded
-- `/permissions`: TODO, confirm the allow / ask / deny rules are listed
+- `/memory`: test performed and working
+- `/permissions`: test performed and working
