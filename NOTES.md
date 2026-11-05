@@ -18,7 +18,12 @@ I also found that the `.gitignore` lines started with spaces, so Git didn't actu
 
 ## Verification
 
+<<<<<<< Updated upstream
 - `/memory`:
+=======
+- `/memory`: 
+
+>>>>>>> Stashed changes
    ❯ Auto-memory  true
 
    ❯ ~/Desktop/Claude/Test/CLAUDE.md
@@ -26,9 +31,15 @@ I also found that the `.gitignore` lines started with spaces, so Git didn't actu
      User instructions      Saved in ~/.claude/CLAUDE.md
      Open auto-memory folder
 
+<<<<<<< Updated upstream
 
 - `/permissions`:
     Recently blocked   Allow   Ask   Deny   Auto mode
+=======
+- `/permissions`: 
+
+   Recently blocked   Allow   Ask   Deny   Auto mode
+>>>>>>> Stashed changes
     Workspace
 
    Claude Code won't ask before using allowed tools.
@@ -46,4 +57,7 @@ I also found that the `.gitignore` lines started with spaces, so Git didn't actu
      8.  mcp__computer-use__key
      9.  mcp__computer-use__left_click
    ↓ 10. mcp__computer-use__left_click_drag
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
