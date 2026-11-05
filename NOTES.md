@@ -18,5 +18,32 @@ I also found that the `.gitignore` lines started with spaces, so Git didn't actu
 
 ## Verification
 
-- `/memory`: test performed and working
-- `/permissions`: test performed and working
+- `/memory`:
+   ❯ Auto-memory  true
+
+   ❯ ~/Desktop/Claude/Test/CLAUDE.md
+     Project instructions   Checked in at ./CLAUDE.md
+     User instructions      Saved in ~/.claude/CLAUDE.md
+     Open auto-memory folder
+
+
+- `/permissions`:
+    Recently blocked   Allow   Ask   Deny   Auto mode
+    Workspace
+
+   Claude Code won't ask before using allowed tools.
+   ╭───────────────────────────────────────────────╮
+   │ ⌕ Search…                                     │
+   ╰───────────────────────────────────────────────╯
+
+     1.  Add a new rule…
+     2.  Bash(npm run lint:*)
+     3.  Bash(npm test:*)
+     4.  mcp__computer-use__computer_batch
+     5.  mcp__computer-use__cursor_position
+     6.  mcp__computer-use__double_click
+     7.  mcp__computer-use__hold_key
+     8.  mcp__computer-use__key
+     9.  mcp__computer-use__left_click
+   ↓ 10. mcp__computer-use__left_click_drag
+
